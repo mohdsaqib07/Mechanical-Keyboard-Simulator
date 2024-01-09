@@ -1,0 +1,11 @@
+# Ignore the build directory
+/Builds
+
+# Ignore other directory
+/MKS new sound pack
+/sounds old
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
